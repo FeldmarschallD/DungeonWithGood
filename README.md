@@ -3,7 +3,7 @@ A web application that allows DMs to run DnD games flexibly
 
 Usage
 - Open the HTML file
-Keyboard controls:
+- - Keyboard controls:
 - K - load background image and/or audio
 - O - load character sprite
 - I - toggle sprite visibility
